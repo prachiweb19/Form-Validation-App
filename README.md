@@ -25,14 +25,6 @@ The app is designed with a clean interface and focuses on *usability, accessibil
 
 ---
 
-## 💡 Technologies Used
-
-- *HTML5*
-- *CSS3*
-- *JavaScript (ES6)*
-
----
-
 
 ## 👩‍💻 About
 
@@ -41,5 +33,12 @@ It demonstrates my ability to create interactive, error-free, and responsive web
 
 ---
 
+## 🧩 How to Use
+
+1. Clone or download this repository
+
+Check it out here:
+
 ⭐ *If you like this project, please give it a star!*
+
 
